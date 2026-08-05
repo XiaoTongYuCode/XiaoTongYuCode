@@ -1,4 +1,4 @@
-# XiaoTongYuCode
+# Xiao
 
 <p align="center">
   <picture>
